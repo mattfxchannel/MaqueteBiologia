@@ -1,2 +1,2 @@
 # MaqueteBiologia
-Maquete de Biologia 2.0
+Código utilizado no microcontrolador Arduino, gravado em C++.
